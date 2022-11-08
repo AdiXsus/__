@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 @import url("../css-1");
 @font-face {
     font-family: "HelveticaNeueCyr-Black";
@@ -105,14 +105,14 @@ body {
     content: '\f099';
 }
 
-/* '' */
-
 .icon-spotify:before {
     content: '\f1BC';
 }
-
-.icon-aboutme:before {
+.icon-discord:before {
     content: '\e800';
+}
+.icon-aboutme:before {
+    content: '\e801';
 }
 
 /* '' */
